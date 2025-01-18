@@ -21,8 +21,4 @@ Develop a restaurant page, ensuring it is user-friendly and visually appealing.
 <a href="https://apis2.ccbp.in/restaurant-app/restaurant-menu-list-details" target=_blank_ >https://apis2.ccbp.in/restaurant-app/restaurant-menu-list-details</a>
 
 
-  <center><button style="color: #fff; border: none; cursor: pointer; width: 218px; height: 34px; background-color: rgb(22, 101, 216); border-radius: 5.4px; box-shadow: rgb(0 0 0 / 36%) 0px 2px 4px 0px;font-family: Inter;font-size: 14px;color: rgb(255, 255, 255);font-weight: 500;letter-spacing: 0.5px;text-transform: uppercase;">
-    SUBMIT
-  </button>
-  </center>
 </a>
